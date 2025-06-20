@@ -12,7 +12,7 @@ There are several ways of editing your application.
 
 Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/1340b42f-5412-43e0-b239-b5fdabd2feb7/improve) and start prompting.
 
-Changes made via gptengineer.app will be committed automatically to this repo.
+Changes made via gptengineer.The app will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -40,7 +40,7 @@ npm run dev
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Make your changes and commit them.
 
 **Use GitHub Codespaces**
 
